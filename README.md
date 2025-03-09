@@ -25,7 +25,7 @@ Welcome to **EmoCare** — a compassionate, AI-powered mental health support age
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-link>
+   git clone <https://github.com/ThiwankiLakshani/EMOCARE>
    cd emo-care
    ```
 2. **Create a virtual environment:**
